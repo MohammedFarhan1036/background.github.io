@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.form {
+    
+    border : 2px solid red;
+    margin:auto;
+    margin-top: 200px;
+    /* justify-content: center;
+    align-items: center; */
+
+    width:40%;
+    height:200px;
+    border-radius: 10px;
+    /* overflow:auto; */
+    box-sizing: border-box;
+    position:absolute;
+}
+.nam{
+    
+    border:2px solid red;
+    width:200px;
+    display: flex;
+    overflow: none;
+    box-sizing: border-box;
+
+}
+.form h1{
+    
+    margin-left: 75px;
+    margin-top: 10px;
+.name{
+    display: inline-block;
+}
